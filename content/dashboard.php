@@ -1,12 +1,4 @@
 <?php
-
-#############################################
-# Teamworks Content Management System
-# http://www.teamworks.co.id
-# 23 Februari 2014
-# Author: webmaster@teamworks.co.id
-#############################################
-
 if (!defined('CMS_CONTENT')) {
 	Header("Location: ../index.php");
 	exit;
